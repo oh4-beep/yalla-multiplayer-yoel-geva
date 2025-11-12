@@ -31,7 +31,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'one00-game.onrender.com',
     'yalla-3awu.onrender.com',
-    ''
+    'https://yalla-multiplayer-yoel-geva.onrender.com',
 ]
 
 # For HTTPS deployments, trust the site origin for CSRF
